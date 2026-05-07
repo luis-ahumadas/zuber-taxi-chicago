@@ -60,4 +60,4 @@ Si deseas ejecutar este proyecto localmente, sigue estos pasos:
 ---
 
 ### Contacto
-Desarrollado por [Tu Nombre] - [Tu LinkedIn] - [Tu Portafolio]
+Desarrollado por Luis Ahumada Sanchez - [https://www.linkedin.com/in/luis-ahumadas] - [https://github.com/luis-ahumadas]
